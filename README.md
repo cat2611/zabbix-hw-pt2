@@ -35,7 +35,7 @@
 `Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»`
 
-![Задание 1](https://github.com/cat2611/zabbix-hw/blob/main/img/zabbix.agent.PNG)
+![Задание 1](https://github.com/cat2611/zabbix-hw-pt2/blob/main/img/Zabbix_template_page.PNG)
 
 ---
 
@@ -67,7 +67,7 @@
 Требования к результату
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-![Задание 2-3](https://github.com/cat2611/zabbix-hw/blob/main/img/zabbix.agent.PNG)
+![Задание 2-3](https://github.com/cat2611/zabbix-hw-pt2/blob/main/img/template_links.PNG)
 
 ### Задание 4
 
@@ -81,4 +81,4 @@
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
- ![Задание 4](https://github.com/cat2611/zabbix-hw/blob/main/img/zabbix.agent.PNG)
+ ![Задание 4](https://github.com/cat2611/zabbix-hw-pt2/blob/main/img/dashboard.PNG)
