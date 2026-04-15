@@ -36,7 +36,7 @@
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»`
 
 ![Задание 1](https://github.com/cat2611/zabbix-hw-pt2/blob/main/img/Zabbix_template_page.PNG)
-
+![Задание 1-1](https://github.com/cat2611/zabbix-hw-pt2/blob/main/img/Zabbix_template_items.PNG)
 ---
 
 ### Задание 2
